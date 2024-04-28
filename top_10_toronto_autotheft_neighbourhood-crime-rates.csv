@@ -1,0 +1,101 @@
+ID,Area Name,Hood ID,Population 2023,Value Year,Count,Rate,Area,Initials
+30,Milliken,130,28371,2014,39.0,143.1087646,Milliken (130),M
+47,Etobicoke City Centre,159,25495,2014,64.0,328.9642639,Etobicoke City Centre (159),ECC
+48,Islington,158,25937,2014,26.0,112.5589828,Islington (158),I
+70,Wexford/Maryvale,119,29870,2014,59.0,209.2792206,Wexford/Maryvale (119),W
+107,Don Valley Village,47,29424,2014,50.0,180.4402771,Don Valley Village (47),DVV
+114,Bedford Park-Nortown,39,25583,2014,40.0,169.7648773,Bedford Park-Nortown (39),BP
+117,Newtonbrook West,36,26265,2014,50.0,206.3387299,Newtonbrook West (36),NW
+122,Yorkdale-Glen Park,31,17258,2014,67.0,463.4433289,Yorkdale-Glen Park (31),YP
+126,York University Heights,27,29897,2014,108.0,374.7267761,York University Heights (27),YUH
+154,West Humber-Clairville,1,36388,2014,309.0,897.2907104,West Humber-Clairville (1),WH
+30,Milliken,130,28371,2015,43.0,159.1001587,Milliken (130),M
+47,Etobicoke City Centre,159,25495,2015,76.0,374.7904053,Etobicoke City Centre (159),ECC
+48,Islington,158,25937,2015,24.0,103.1149292,Islington (158),I
+70,Wexford/Maryvale,119,29870,2015,52.0,184.005661,Wexford/Maryvale (119),W
+107,Don Valley Village,47,29424,2015,28.0,101.2255554,Don Valley Village (47),DVV
+114,Bedford Park-Nortown,39,25583,2015,40.0,170.3069763,Bedford Park-Nortown (39),BP
+117,Newtonbrook West,36,26265,2015,24.0,98.86714935,Newtonbrook West (36),NW
+122,Yorkdale-Glen Park,31,17258,2015,53.0,367.2394714,Yorkdale-Glen Park (31),YP
+126,York University Heights,27,29897,2015,100.0,348.8940125,York University Heights (27),YUH
+154,West Humber-Clairville,1,36388,2015,266.0,778.005249,West Humber-Clairville (1),WH
+30,Milliken,130,28371,2016,35.0,130.3149872,Milliken (130),M
+47,Etobicoke City Centre,159,25495,2016,103.0,487.2279968,Etobicoke City Centre (159),ECC
+48,Islington,158,25937,2016,33.0,140.2226563,Islington (158),I
+70,Wexford/Maryvale,119,29870,2016,42.0,147.9290009,Wexford/Maryvale (119),W
+107,Don Valley Village,47,29424,2016,28.0,101.2109146,Don Valley Village (47),DVV
+114,Bedford Park-Nortown,39,25583,2016,30.0,127.8663406,Bedford Park-Nortown (39),BP
+117,Newtonbrook West,36,26265,2016,45.0,184.6078033,Newtonbrook West (36),NW
+122,Yorkdale-Glen Park,31,17258,2016,41.0,283.5800171,Yorkdale-Glen Park (31),YP
+126,York University Heights,27,29897,2016,109.0,381.8532104,York University Heights (27),YUH
+154,West Humber-Clairville,1,36388,2016,323.0,950.5870972,West Humber-Clairville (1),WH
+30,Milliken,130,28371,2017,60.0,220.8236694,Milliken (130),M
+47,Etobicoke City Centre,159,25495,2017,71.0,325.1213379,Etobicoke City Centre (159),ECC
+48,Islington,158,25937,2017,24.0,100.3344498,Islington (158),I
+70,Wexford/Maryvale,119,29870,2017,67.0,233.3031616,Wexford/Maryvale (119),W
+107,Don Valley Village,47,29424,2017,29.0,103.4753418,Don Valley Village (47),DVV
+114,Bedford Park-Nortown,39,25583,2017,47.0,197.1145782,Bedford Park-Nortown (39),BP
+117,Newtonbrook West,36,26265,2017,34.0,137.4292603,Newtonbrook West (36),NW
+122,Yorkdale-Glen Park,31,17258,2017,52.0,349.1104431,Yorkdale-Glen Park (31),YP
+126,York University Heights,27,29897,2017,93.0,322.0444641,York University Heights (27),YUH
+154,West Humber-Clairville,1,36388,2017,329.0,954.8409424,West Humber-Clairville (1),WH
+30,Milliken,130,28371,2018,91.0,330.0449829,Milliken (130),M
+47,Etobicoke City Centre,159,25495,2018,122.0,540.468689,Etobicoke City Centre (159),ECC
+48,Islington,158,25937,2018,36.0,147.426178,Islington (158),I
+70,Wexford/Maryvale,119,29870,2018,86.0,295.1371155,Wexford/Maryvale (119),W
+107,Don Valley Village,47,29424,2018,26.0,91.369133,Don Valley Village (47),DVV
+114,Bedford Park-Nortown,39,25583,2018,49.0,201.5548553,Bedford Park-Nortown (39),BP
+117,Newtonbrook West,36,26265,2018,51.0,202.718811,Newtonbrook West (36),NW
+122,Yorkdale-Glen Park,31,17258,2018,63.0,409.4365234,Yorkdale-Glen Park (31),YP
+126,York University Heights,27,29897,2018,91.0,311.0047913,York University Heights (27),YUH
+154,West Humber-Clairville,1,36388,2018,506.0,1443.899048,West Humber-Clairville (1),WH
+30,Milliken,130,28371,2019,85.0,304.6158142,Milliken (130),M
+47,Etobicoke City Centre,159,25495,2019,118.0,507.4613953,Etobicoke City Centre (159),ECC
+48,Islington,158,25937,2019,57.0,229.7738495,Islington (158),I
+70,Wexford/Maryvale,119,29870,2019,97.0,329.3606262,Wexford/Maryvale (119),W
+107,Don Valley Village,47,29424,2019,21.0,72.92679596,Don Valley Village (47),DVV
+114,Bedford Park-Nortown,39,25583,2019,63.0,255.3708954,Bedford Park-Nortown (39),BP
+117,Newtonbrook West,36,26265,2019,59.0,231.427002,Newtonbrook West (36),NW
+122,Yorkdale-Glen Park,31,17258,2019,62.0,391.8842163,Yorkdale-Glen Park (31),YP
+126,York University Heights,27,29897,2019,147.0,497.7145691,York University Heights (27),YUH
+154,West Humber-Clairville,1,36388,2019,486.0,1368.358765,West Humber-Clairville (1),WH
+30,Milliken,130,28371,2020,71.0,253.5533142,Milliken (130),M
+47,Etobicoke City Centre,159,25495,2020,102.0,428.6975098,Etobicoke City Centre (159),ECC
+48,Islington,158,25937,2020,50.0,199.8720856,Islington (158),I
+70,Wexford/Maryvale,119,29870,2020,88.0,298.0323181,Wexford/Maryvale (119),W
+107,Don Valley Village,47,29424,2020,36.0,124.5373077,Don Valley Village (47),DVV
+114,Bedford Park-Nortown,39,25583,2020,81.0,326.0606995,Bedford Park-Nortown (39),BP
+117,Newtonbrook West,36,26265,2020,61.0,237.7240906,Newtonbrook West (36),NW
+122,Yorkdale-Glen Park,31,17258,2020,88.0,544.4533691,Yorkdale-Glen Park (31),YP
+126,York University Heights,27,29897,2020,187.0,631.6713867,York University Heights (27),YUH
+154,West Humber-Clairville,1,36388,2020,407.0,1139.545288,West Humber-Clairville (1),WH
+30,Milliken,130,28371,2021,80.0,286.2458801,Milliken (130),M
+47,Etobicoke City Centre,159,25495,2021,118.0,488.4914856,Etobicoke City Centre (159),ECC
+48,Islington,158,25937,2021,58.0,231.1033173,Islington (158),I
+70,Wexford/Maryvale,119,29870,2021,92.0,312.04422,Wexford/Maryvale (119),W
+107,Don Valley Village,47,29424,2021,34.0,117.7489166,Don Valley Village (47),DVV
+114,Bedford Park-Nortown,39,25583,2021,105.0,421.8731079,Bedford Park-Nortown (39),BP
+117,Newtonbrook West,36,26265,2021,91.0,354.5270386,Newtonbrook West (36),NW
+122,Yorkdale-Glen Park,31,17258,2021,95.0,578.668457,Yorkdale-Glen Park (31),YP
+126,York University Heights,27,29897,2021,173.0,586.2221069,York University Heights (27),YUH
+154,West Humber-Clairville,1,36388,2021,496.0,1389.706055,West Humber-Clairville (1),WH
+30,Milliken,130,28371,2022,103.0,366.105072,Milliken (130),M
+47,Etobicoke City Centre,159,25495,2022,187.0,755.6166382,Etobicoke City Centre (159),ECC
+48,Islington,158,25937,2022,94.0,370.4579468,Islington (158),I
+70,Wexford/Maryvale,119,29870,2022,130.0,438.5668945,Wexford/Maryvale (119),W
+107,Don Valley Village,47,29424,2022,69.0,237.2846375,Don Valley Village (47),DVV
+114,Bedford Park-Nortown,39,25583,2022,167.0,664.2007446,Bedford Park-Nortown (39),BP
+117,Newtonbrook West,36,26265,2022,169.0,652.7616577,Newtonbrook West (36),NW
+122,Yorkdale-Glen Park,31,17258,2022,193.0,1150.933228,Yorkdale-Glen Park (31),YP
+126,York University Heights,27,29897,2022,230.0,775.6643677,York University Heights (27),YUH
+154,West Humber-Clairville,1,36388,2022,775.0,2153.794922,West Humber-Clairville (1),WH
+30,Milliken,130,28371,2023,298.0,1050.368286,Milliken (130),M
+47,Etobicoke City Centre,159,25495,2023,294.0,1153.167236,Etobicoke City Centre (159),ECC
+48,Islington,158,25937,2023,170.0,655.4343262,Islington (158),I
+70,Wexford/Maryvale,119,29870,2023,203.0,679.6116333,Wexford/Maryvale (119),W
+107,Don Valley Village,47,29424,2023,161.0,547.1723633,Don Valley Village (47),DVV
+114,Bedford Park-Nortown,39,25583,2023,229.0,895.1256714,Bedford Park-Nortown (39),BP
+117,Newtonbrook West,36,26265,2023,214.0,814.772522,Newtonbrook West (36),NW
+122,Yorkdale-Glen Park,31,17258,2023,199.0,1153.088379,Yorkdale-Glen Park (31),YP
+126,York University Heights,27,29897,2023,263.0,879.6869507,York University Heights (27),YUH
+154,West Humber-Clairville,1,36388,2023,829.0,2278.223633,West Humber-Clairville (1),WH
